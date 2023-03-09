@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 
 if __name__ == "__main__":
-    """ print the sum, sub, mil and div od 10 by 5 """
+    """ print the sum, sub, mul and div of 10 and 5 """
     from calculator_1 import add, sub, div, mul
 
     a = 10
